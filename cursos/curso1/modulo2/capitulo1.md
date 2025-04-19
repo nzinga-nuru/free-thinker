@@ -5,7 +5,7 @@ course: curso1
 module: modulo2
 ---
 # CAPACITORES E DIELÉTRICOS
-#capacitância #dielétrico #capacitor #associação-em-série #associação-em-paralelo #rigidez-dielétrica #constante-dielétrica 
+ 
 
 ## O que é um capacitor?
 ---
