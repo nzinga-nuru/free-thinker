@@ -5,14 +5,16 @@ course: curso1
 module: modulo1
 ---
 
-#capacitância #dielétrico #capacitor #associação-em-série #associação-em-paralelo #rigidez-dielétrica #constante-dielétrica 
+
+# CAPACITOR E DIELÉTRICO
+
 
 ## O que é um capacitor?
 ---
 
 Um **capacitor** é uma **configuração de dois condutores eletricamente isolados**, chamados de **placas**, dispostos de forma que haja um **meio isolante** entre eles — que pode ser o **vácuo**, o **ar** ou um **material dielétrico**.
 
-Quando uma **diferença de potencial** é aplicada entre esses condutores, surgem cargas de **módulo igual e sinais opostos** em cada placa: uma acumula carga $+Q$ e a outra $−Q$. Esse **acúmulo não resulta de uma corrente contínua entre as placas, mas sim da separação de cargas induzida pela diferença de potencial.**
+Quando uma **diferença de potencial** é aplicada entre esses condutores, surgem cargas de **módulo igual e sinais opostos** em cada placa: uma acumula carga $+Q$ e a outra $-Q$. Esse **acúmulo não resulta de uma corrente contínua entre as placas, mas sim da separação de cargas induzida pela diferença de potencial.**
 
 **A capacitância $C$ depende unicamente da geometria do sistema e da natureza do meio entre os condutores.**
 
